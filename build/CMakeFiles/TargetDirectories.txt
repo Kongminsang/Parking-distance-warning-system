@@ -1,0 +1,3 @@
+/home/kong/AUTOSE_KMS_20203327/build/CMakeFiles/AUTOSE_KMS_20203327.dir
+/home/kong/AUTOSE_KMS_20203327/build/CMakeFiles/edit_cache.dir
+/home/kong/AUTOSE_KMS_20203327/build/CMakeFiles/rebuild_cache.dir

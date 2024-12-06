@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kong/AUTOSE_KMS_20203327/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -Wall -Wextra -Werror -std=gnu++17 -o CMakeFiles/AUTOSE_KMS_20203327.dir/main.cpp.o -c /home/kong/AUTOSE_KMS_20203327/main.cpp",
+  "file": "/home/kong/AUTOSE_KMS_20203327/main.cpp"
+},
+{
+  "directory": "/home/kong/AUTOSE_KMS_20203327/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -Wall -Wextra -Werror -std=gnu++17 -o CMakeFiles/AUTOSE_KMS_20203327.dir/sensor.cpp.o -c /home/kong/AUTOSE_KMS_20203327/sensor.cpp",
+  "file": "/home/kong/AUTOSE_KMS_20203327/sensor.cpp"
+},
+{
+  "directory": "/home/kong/AUTOSE_KMS_20203327/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -Wall -Wextra -Werror -std=gnu++17 -o CMakeFiles/AUTOSE_KMS_20203327.dir/kalman_filter.cpp.o -c /home/kong/AUTOSE_KMS_20203327/kalman_filter.cpp",
+  "file": "/home/kong/AUTOSE_KMS_20203327/kalman_filter.cpp"
+},
+{
+  "directory": "/home/kong/AUTOSE_KMS_20203327/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -Wall -Wextra -Werror -std=gnu++17 -o CMakeFiles/AUTOSE_KMS_20203327.dir/collision_checker.cpp.o -c /home/kong/AUTOSE_KMS_20203327/collision_checker.cpp",
+  "file": "/home/kong/AUTOSE_KMS_20203327/collision_checker.cpp"
+}
+]
